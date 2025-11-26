@@ -8,42 +8,38 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Henrik Carlsson
+  tagline: Testexpert
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
+  email: henrik@henrikcarlsson.com
+  phone: +46 706505853
+  timezone: Central European Time (CET) # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Sweden
+  website: https://henrikcarlsson.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: henrik.ca
+  github: henrikc
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Swedish
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
   interests:
@@ -64,29 +60,20 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    25+ years of experience of working with improving SW
+    quality. Dedicated about delivering quality and
+    improve the current situation. Curious about learning
+    new things. Find it easy to adopt according to actual
+    needs. Background from different roles & branches +
+    working with different cultures gives me a wide skillset
+    to use in my daily work. Likes technology but also to
+    see young people grow.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: MSc in Electrical Engineering
+    university: Chalmers Univeristy (Gothenburg)
+    time: 1994 - 1998
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,48 +86,66 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Test Lead
+    time: 2025 - Present
+    company: Evinova
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      SW for clinical tries. Many studies in many countries. Web & mobile. Distributed team in Europe
+        - Test lead maintenance upgrades
+        - Test lead AWS migration project
+  - role: Quality Lead
+    time: 2020 - 2024
+    company: WirelessCar
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Telematic services for cars
+        - Way of working - improve quality in all phases
+        - Compliance with standards
+        - Introducing DevOps in the teams
+        - Harmonize work on a company level
+        - VolvoOnCall
+  - role: Line Manager
+    time: 2015 - 2020
+    company: Bombardier
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Signaling systems for trains. ERTMS level 3.
+        - Line manager for ~25 testers
+        - Introducing a new test methodology
+        - Establishing a test site in India
+        - Lab - virtual (VMWare) & physical servers + real HW
+        - Safety critical systems
+  - role: Test consultant
+    time: 2012 - 2015
+    company: HiQ
+    details: |
+      Different assignments
+        - Jeppesen
+  - role: Test consultant
+    time: 2010 - 2012
+    company: KnowIT
+    details: |
+      Different assignments
+        - Jeppesen
+        - Västtrafik
+  - role: Test consultant
+    time: 2001 - 2010
+    company: HiQ
+    details: |
+      Different assignments
+        - Volvo Cars
+        - Volvo Trucks
+        - Rosemount Tankradar
+  - role: Tester/Developer
+    time: 1998 - 2001
+    company: Ericcson
+    details: |
+      Working with mobile telecom systems for the american market ((D)AMPS
+        - Test setup, mixing mobile base station HW & AXE simulator
+        - C programming + Real time OS
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
+  - name: ISEB/ISTQB
     start: 2020
     end: 2021
     organization: Microsoft
