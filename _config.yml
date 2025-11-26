@@ -34,3 +34,8 @@ compress_html: # - http://jch.penibelst.de/
 port: 4000
 host: 0.0.0.0
 safe: false
+
+# Multilingual support
+languages: ["sv", "en"]
+default_language: "sv"
+exclude_from_localizations: ["assets", "CNAME", "*.png", "*.jpg", "*.svg"]
